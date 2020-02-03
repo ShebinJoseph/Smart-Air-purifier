@@ -1,6 +1,6 @@
 
 #include <SoftwareSerial.h>
-String apiKey = "352ZXOJX5CNBUMZ4";
+String apiKey = "ENTER API KEY HERE";
 int IN1 = 4;
 #define ON   0
 #define OFF  1
